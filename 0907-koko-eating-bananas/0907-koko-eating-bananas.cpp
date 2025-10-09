@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool ispossible(long long maxnumofbananas,vector <int> &piles,int h){
+    bool ispossible(int maxnumofbananas,vector <int> &piles,int h){
 
         int hours = 0;
         for(int i=0;i<piles.size();i++){
@@ -8,7 +8,7 @@ public:
                 hours++;
             }
             else if(piles[i]>maxnumofbananas){
-                hours += (piles[i] + maxnumofbananas - 1) / maxnumofbananas;
+                hours += ceil(double(piles[i])/double(maxnumofbananas));
             }
             if(hours>h){
                 return false;
@@ -19,12 +19,12 @@ public:
     int minEatingSpeed(vector<int>& piles, int h) {
         
         int st = 1;
-        long long end = accumulate(piles.begin(),piles.end(),0LL);
+        int end = *(max_element(piles.begin(),piles.end()));
         int ans;
 
         while(st<=end){
 
-            long long mid = st + (end-st)/2;
+            int mid = st + (end-st)/2;
 
             if(ispossible(mid,piles,h)){
                 ans = mid;
