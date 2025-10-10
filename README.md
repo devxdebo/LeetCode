@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/devxdebo/LeetCode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devxdebo/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/devxdebo/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/devxdebo/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/devxdebo/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devxdebo/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0792-binary-search](https://github.com/devxdebo/LeetCode/tree/master/0792-binary-search) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/devxdebo/LeetCode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devxdebo/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/devxdebo/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/devxdebo/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/devxdebo/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/devxdebo/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/devxdebo/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -57,8 +59,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/devxdebo/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/devxdebo/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/devxdebo/LeetCode/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/devxdebo/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
