@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devxdebo/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/devxdebo/LeetCode/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/devxdebo/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devxdebo/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0792-binary-search](https://github.com/devxdebo/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/devxdebo/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/devxdebo/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/devxdebo/LeetCode/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devxdebo/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
