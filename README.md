@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/devxdebo/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/devxdebo/LeetCode/tree/master/0041-first-missing-positive) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devxdebo/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/devxdebo/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/devxdebo/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/devxdebo/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/devxdebo/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/devxdebo/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/devxdebo/LeetCode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devxdebo/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/devxdebo/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/devxdebo/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/devxdebo/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/devxdebo/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -75,5 +77,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/devxdebo/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/devxdebo/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
