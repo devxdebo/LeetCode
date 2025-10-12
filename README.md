@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0907-koko-eating-bananas](https://github.com/devxdebo/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/devxdebo/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1646-kth-missing-positive-number](https://github.com/devxdebo/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/devxdebo/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Binary Search
 |  |
 | ------- |
