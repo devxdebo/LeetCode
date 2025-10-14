@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devxdebo/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/devxdebo/LeetCode/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/devxdebo/LeetCode/tree/master/0792-binary-search) |
+| [0898-transpose-matrix](https://github.com/devxdebo/LeetCode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/devxdebo/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/devxdebo/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1646-kth-missing-positive-number](https://github.com/devxdebo/LeetCode/tree/master/1646-kth-missing-positive-number) |
@@ -109,5 +110,10 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/devxdebo/LeetCode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/devxdebo/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/devxdebo/LeetCode/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
