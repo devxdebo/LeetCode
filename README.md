@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/devxdebo/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/devxdebo/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/devxdebo/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/devxdebo/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/devxdebo/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/devxdebo/LeetCode/tree/master/0054-spiral-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devxdebo/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/devxdebo/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/devxdebo/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/devxdebo/LeetCode/tree/master/0268-missing-number) |
 ## Dynamic Programming
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/devxdebo/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/devxdebo/LeetCode/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/devxdebo/LeetCode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/devxdebo/LeetCode/tree/master/1677-matrix-diagonal-sum) |
