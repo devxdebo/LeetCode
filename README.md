@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/devxdebo/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/devxdebo/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/devxdebo/LeetCode/tree/master/0645-set-mismatch) |
+| [1970-sorting-the-sentence](https://github.com/devxdebo/LeetCode/tree/master/1970-sorting-the-sentence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -142,4 +143,5 @@ A collection of LeetCode questions to ace the coding interview!
 | [0409-longest-palindrome](https://github.com/devxdebo/LeetCode/tree/master/0409-longest-palindrome) |
 | [1205-defanging-an-ip-address](https://github.com/devxdebo/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/devxdebo/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1970-sorting-the-sentence](https://github.com/devxdebo/LeetCode/tree/master/1970-sorting-the-sentence) |
 <!---LeetCode Topics End-->
