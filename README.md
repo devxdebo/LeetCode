@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/devxdebo/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/devxdebo/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/devxdebo/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/devxdebo/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/devxdebo/LeetCode/tree/master/0268-missing-number) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/devxdebo/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/devxdebo/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/devxdebo/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/devxdebo/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/devxdebo/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/devxdebo/LeetCode/tree/master/0268-missing-number) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/devxdebo/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/devxdebo/LeetCode/tree/master/0013-roman-to-integer) |
 | [0409-longest-palindrome](https://github.com/devxdebo/LeetCode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/devxdebo/LeetCode/tree/master/0415-add-strings) |
 | [1205-defanging-an-ip-address](https://github.com/devxdebo/LeetCode/tree/master/1205-defanging-an-ip-address) |
