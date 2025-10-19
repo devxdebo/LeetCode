@@ -8,7 +8,7 @@ public:
 
         int count = 0;
         int maxcount = 0;
-        int m = 1;
+        int delcount = 0;
 
         unordered_set <char> container;
 
@@ -22,11 +22,20 @@ public:
                 container.emplace(s[end]);
                 end++;
             }else{
-                count = 0;
-                container.clear();
-                st = m;
-                m++;
-                end = st;
+                delcount = 0;
+                while(st<=end){
+                    if(s[st]!=s[end]){
+                        container.erase(s[st]);
+                        delcount++;
+                        st++;
+                    }else{
+                        st++;
+                        end++;
+                        count -= delcount;
+                        break;
+                    }
+                }
+                
             }
 
         }
