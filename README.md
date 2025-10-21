@@ -60,12 +60,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/devxdebo/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/devxdebo/LeetCode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/devxdebo/LeetCode/tree/master/0415-add-strings) |
+| [1013-fibonacci-number](https://github.com/devxdebo/LeetCode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/devxdebo/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/devxdebo/LeetCode/tree/master/0053-maximum-subarray) |
 | [0410-split-array-largest-sum](https://github.com/devxdebo/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1013-fibonacci-number](https://github.com/devxdebo/LeetCode/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -161,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devxdebo/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/devxdebo/LeetCode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/devxdebo/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
