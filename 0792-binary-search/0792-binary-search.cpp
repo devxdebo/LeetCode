@@ -1,7 +1,7 @@
 class Solution {
 public:
     int search(vector<int>& nums, int target) {
-        
+
         int N = nums.size();
         int st = 0;
         int end = N-1;
@@ -18,7 +18,6 @@ public:
                 st = mid+1;
             }
         }
-
         return -1;
         
     }
