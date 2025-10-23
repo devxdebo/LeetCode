@@ -1,39 +1,40 @@
 class Solution {
 public:
-    bool ispossible(int maxnumofbananas,vector <int> &piles,int h){
-
-        int hours = 0;
-        for(int i=0;i<piles.size();i++){
-            if(piles[i]<=maxnumofbananas){
-                hours++;
+    bool ispossible(int mid,vector <int> &arr,int k){
+        int time = 0;
+        
+        for(int i=0;i<arr.size();i++){
+            if(arr[i]<=mid){
+                time++;
+            }else{
+                time += (ceil)((double)arr[i]/mid);
             }
-            else if(piles[i]>maxnumofbananas){
-                hours += ceil(double(piles[i])/double(maxnumofbananas));
-            }
-            if(hours>h){
+            if(time>k){
                 return false;
             }
         }
         return true;
-    }
-    int minEatingSpeed(vector<int>& piles, int h) {
         
+    }
+    int minEatingSpeed(vector<int>& arr, int k) {
+
+        int end = *(max_element(arr.begin(),arr.end()));
         int st = 1;
-        int end = *(max_element(piles.begin(),piles.end()));
         int ans;
 
         while(st<=end){
-
+            
             int mid = st + (end-st)/2;
-
-            if(ispossible(mid,piles,h)){
+            
+            if(ispossible(mid,arr,k)){
                 ans = mid;
                 end = mid-1;
             }else{
                 st = mid+1;
             }
         }
-
+        
         return ans;
+
     }
 };
