@@ -1,31 +1,29 @@
 class Solution {
 public:
-    bool ispossible(int maxweight,vector <int> arr,int k){
-        int numofdays = 1;
-        int N = arr.size();
-        long long sum = 0;
-        for(int i=0;i<N;i++){
-            sum += arr[i];
-            if(sum>maxweight){
-                numofdays++;
-                if(numofdays>k){
+    bool ispossible(int maxpages,vector <int> &arr,int k){
+        int numofstudents = 1;
+        long long totalpages = 0;
+        
+        for(int i=0;i<arr.size();i++){
+            totalpages += arr[i];
+            if(totalpages > maxpages){
+                numofstudents++;
+                if(numofstudents>k){
                     return false;
                 }
-                sum = arr[i];
+                totalpages = arr[i];
             }
         }
         return true;
     }
     int shipWithinDays(vector<int>& arr, int k) {
-        int N = arr.size();
-        
         int st = *(max_element(arr.begin(),arr.end()));
         long long end = accumulate(arr.begin(),arr.end(),0);
         long long ans;
         
         while(st<=end){
             
-            int mid = st + (end-st)/2;
+            long long mid = st + (end-st)/2;
             
             if(ispossible(mid,arr,k)){
                 ans = mid;
@@ -34,7 +32,7 @@ public:
                 st = mid+1;
             }
         }
-        return ans;
         
+        return (int)ans;
     }
 };
