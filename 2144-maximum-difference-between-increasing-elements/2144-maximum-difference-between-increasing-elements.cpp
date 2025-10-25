@@ -1,32 +1,31 @@
 class Solution {
 public:
-    int maximumDifference(vector<int>& arr) {
-       
-        int n = arr.size();
+    int maximumDifference(vector<int>& nums) {
+        
+        int maxdiff = INT_MIN;
+        int N = nums.size();
 
-        vector <int> suffix_max(n);
+        vector <int> suffix(N,0);
+        int maxelement = nums[N-1];
 
-        int max = arr[n-1];
-
-        for(int i=n-2;i>=0;i--){
-            suffix_max[i] = max;
-            if(arr[i]>max){
-                max = arr[i];
+        for(int i=N-2;i>=0;i--){
+            suffix[i] = maxelement;
+            if(nums[i]>maxelement){
+                maxelement = nums[i];
             }
         }
 
-        max = INT_MIN;
-
-        for(int i=0;i<n-1;i++){
-            int diff = suffix_max[i]-arr[i];
-            if(diff>max){
-                max = diff;
+        for(int i=0;i<N-1;i++){
+            if(suffix[i]-nums[i]>maxdiff){
+                maxdiff = suffix[i]-nums[i];
             }
         }
-        if(max<=0){
-            max = -1;
+
+        if(maxdiff<=0){
+            return -1;
+        }else{
+            return maxdiff;
         }
 
-        return max;
     }
 };
