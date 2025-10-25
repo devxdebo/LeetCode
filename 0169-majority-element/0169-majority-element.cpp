@@ -7,11 +7,12 @@ public:
         int N = nums.size();
 
         for(int i=1;i<N;i++){
+
             if(nums[i]==element){
                 numoftimes++;
             }else{
                 numoftimes--;
-                if(numoftimes==0){
+                if(numoftimes == -1){
                     element = nums[i];
                     numoftimes = 1;
                 }
