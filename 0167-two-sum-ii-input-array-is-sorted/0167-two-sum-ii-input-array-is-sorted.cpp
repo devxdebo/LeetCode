@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        
+
         int N = nums.size();
         int st = 0;
         int end = N-1;
@@ -16,6 +16,7 @@ public:
                 st++;
             }
         }
+
         return {0};
     }
 };
