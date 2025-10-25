@@ -3,16 +3,17 @@ public:
     int majorityElement(vector<int>& nums) {
         
         int element = nums[0];
-        int count = 1;
+        int numoftimes = 1;
+        int N = nums.size();
 
-        for(int i=1;i<nums.size();i++){
+        for(int i=1;i<N;i++){
             if(nums[i]==element){
-                count++;
+                numoftimes++;
             }else{
-                count--;
-                if(count<0){
+                numoftimes--;
+                if(numoftimes==0){
                     element = nums[i];
-                    count = 1;
+                    numoftimes = 1;
                 }
             }
         }
