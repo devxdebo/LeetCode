@@ -1,23 +1,19 @@
 class Solution {
 public:
-    void helperfunction(vector <int> &nums,vector <vector <int>> &ans,int N,int index,vector <int> &temp){
-        if(index == N){
+    void recursion(vector <int> &nums,int i, vector <int> temp, vector <vector <int>> &ans){
+        if(i==nums.size()){
             ans.emplace_back(temp);
             return;
         }
-        helperfunction(nums,ans,N,index+1,temp);
-        temp.push_back(nums[index]);
-        helperfunction(nums,ans,N,index+1,temp);
+        temp.push_back(nums[i]);
+        recursion(nums,i+1,temp,ans);
         temp.pop_back();
-
+        recursion(nums,i+1,temp,ans);
     }
     vector<vector<int>> subsets(vector<int>& nums) {
-        
-        vector <vector<int>> ans;
-        int N = nums.size();
+        vector <vector <int>> ans;
         vector <int> temp;
-        helperfunction(nums,ans,N,0,temp);
-        return ans;
-        
+        recursion(nums,0,temp,ans);
+        return ans;   
     }
 };
