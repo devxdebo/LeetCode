@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/devxdebo/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/devxdebo/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/devxdebo/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/devxdebo/LeetCode/tree/master/0070-climbing-stairs) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/devxdebo/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/devxdebo/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/devxdebo/LeetCode/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/devxdebo/LeetCode/tree/master/0022-generate-parentheses) |
 | [0409-longest-palindrome](https://github.com/devxdebo/LeetCode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/devxdebo/LeetCode/tree/master/0415-add-strings) |
 | [1205-defanging-an-ip-address](https://github.com/devxdebo/LeetCode/tree/master/1205-defanging-an-ip-address) |
@@ -202,5 +204,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/devxdebo/LeetCode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/devxdebo/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
