@@ -5,10 +5,11 @@ public:
         int N = nums.size();
         int st = 0;
         int end = N-1;
+
         int firstpos = -1;
 
         while(st<=end){
-
+            
             int mid = st + (end-st)/2;
 
             if(nums[mid]==target){
@@ -21,16 +22,16 @@ public:
             }
         }
 
-        if(firstpos == -1)
+        if(firstpos == -1){
             return {-1,-1};
-        else{
+        }else{
 
             int lastpos = -1;
             st = 0;
             end = N-1;
 
             while(st<=end){
-
+            
                 int mid = st + (end-st)/2;
 
                 if(nums[mid]==target){
@@ -45,5 +46,6 @@ public:
 
             return {firstpos,lastpos};
         }
+        
     }
 };
