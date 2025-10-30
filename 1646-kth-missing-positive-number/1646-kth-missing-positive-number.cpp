@@ -1,11 +1,12 @@
 class Solution {
 public:
     int findKthPositive(vector<int>& nums, int k) {
-
+        
         int N = nums.size();
+        int ans = N;
+
         int st = 0;
         int end = N-1;
-        int ans = N;
 
         while(st<=end){
 
@@ -18,7 +19,6 @@ public:
                 st = mid+1;
             }
         }
-
-        return k+ans;
+        return ans+k;
     }
 };
