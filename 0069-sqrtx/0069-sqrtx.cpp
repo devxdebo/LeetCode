@@ -1,10 +1,10 @@
 class Solution {
 public:
     int mySqrt(int x) {
-        
+
         int st = 0;
         int end = x;
-        long long ans;
+        int ans;
 
         while(st<=end){
 
@@ -15,11 +15,12 @@ public:
             }else if(mid*mid > x){
                 end = mid-1;
             }else{
-                st = mid+1;
                 ans = mid;
+                st = mid+1;
             }
         }
 
-        return (int)ans;
+        return ans;
+        
     }
 };
