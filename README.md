@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/devxdebo/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/devxdebo/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devxdebo/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/devxdebo/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/devxdebo/LeetCode/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/devxdebo/LeetCode/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/devxdebo/LeetCode/tree/master/0898-transpose-matrix) |
